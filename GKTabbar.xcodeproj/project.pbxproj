@@ -1,0 +1,402 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EB1762002BADC3DA00276776 /* StyleOneTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB1761FF2BADC3DA00276776 /* StyleOneTabBarController.m */; };
+		EB5173612BAE66DE0085631A /* StyleTwoTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5173602BAE66DE0085631A /* StyleTwoTabBarController.m */; };
+		EB5173642BAE6C950085631A /* CPTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5173632BAE6C950085631A /* CPTabBar.m */; };
+		EB5173672BAE7D4A0085631A /* StyleThreeTabBarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5173662BAE7D4A0085631A /* StyleThreeTabBarViewController.m */; };
+		EB51736A2BAE7E240085631A /* MyTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5173692BAE7E240085631A /* MyTabBar.m */; };
+		EB51736D2BAE85480085631A /* MyTabbarButton.m in Sources */ = {isa = PBXBuildFile; fileRef = EB51736C2BAE85480085631A /* MyTabbarButton.m */; };
+		EBF155B22BAC782F0010DFB8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EBF155B12BAC782F0010DFB8 /* AppDelegate.m */; };
+		EBF155BD2BAC78300010DFB8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBF155BC2BAC78300010DFB8 /* Assets.xcassets */; };
+		EBF155C02BAC78300010DFB8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBF155BE2BAC78300010DFB8 /* LaunchScreen.storyboard */; };
+		EBF155C32BAC78300010DFB8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EBF155C22BAC78300010DFB8 /* main.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		EB1761FE2BADC3DA00276776 /* StyleOneTabBarController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = StyleOneTabBarController.h; path = GKTabbar/StyleOne/StyleOneTabBarController.h; sourceTree = SOURCE_ROOT; };
+		EB1761FF2BADC3DA00276776 /* StyleOneTabBarController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = StyleOneTabBarController.m; path = GKTabbar/StyleOne/StyleOneTabBarController.m; sourceTree = SOURCE_ROOT; };
+		EB51735F2BAE66DE0085631A /* StyleTwoTabBarController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StyleTwoTabBarController.h; sourceTree = "<group>"; };
+		EB5173602BAE66DE0085631A /* StyleTwoTabBarController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StyleTwoTabBarController.m; sourceTree = "<group>"; };
+		EB5173622BAE6C950085631A /* CPTabBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CPTabBar.h; sourceTree = "<group>"; };
+		EB5173632BAE6C950085631A /* CPTabBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CPTabBar.m; sourceTree = "<group>"; };
+		EB5173652BAE7D4A0085631A /* StyleThreeTabBarViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StyleThreeTabBarViewController.h; sourceTree = "<group>"; };
+		EB5173662BAE7D4A0085631A /* StyleThreeTabBarViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StyleThreeTabBarViewController.m; sourceTree = "<group>"; };
+		EB5173682BAE7E240085631A /* MyTabBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyTabBar.h; sourceTree = "<group>"; };
+		EB5173692BAE7E240085631A /* MyTabBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyTabBar.m; sourceTree = "<group>"; };
+		EB51736B2BAE85480085631A /* MyTabbarButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyTabbarButton.h; sourceTree = "<group>"; };
+		EB51736C2BAE85480085631A /* MyTabbarButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyTabbarButton.m; sourceTree = "<group>"; };
+		EBF155AD2BAC782F0010DFB8 /* GKTabbar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GKTabbar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EBF155B02BAC782F0010DFB8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		EBF155B12BAC782F0010DFB8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		EBF155BC2BAC78300010DFB8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EBF155BF2BAC78300010DFB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EBF155C12BAC78300010DFB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBF155C22BAC78300010DFB8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EBF155AA2BAC782F0010DFB8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EB1761FB2BADC11800276776 /* StyleOne */ = {
+			isa = PBXGroup;
+			children = (
+				EB1761FE2BADC3DA00276776 /* StyleOneTabBarController.h */,
+				EB1761FF2BADC3DA00276776 /* StyleOneTabBarController.m */,
+			);
+			path = StyleOne;
+			sourceTree = "<group>";
+		};
+		EB1761FC2BADC12700276776 /* StyleTwo */ = {
+			isa = PBXGroup;
+			children = (
+				EB51735F2BAE66DE0085631A /* StyleTwoTabBarController.h */,
+				EB5173602BAE66DE0085631A /* StyleTwoTabBarController.m */,
+				EB5173622BAE6C950085631A /* CPTabBar.h */,
+				EB5173632BAE6C950085631A /* CPTabBar.m */,
+			);
+			path = StyleTwo;
+			sourceTree = "<group>";
+		};
+		EB1761FD2BADC13500276776 /* StyleThree */ = {
+			isa = PBXGroup;
+			children = (
+				EB5173652BAE7D4A0085631A /* StyleThreeTabBarViewController.h */,
+				EB5173662BAE7D4A0085631A /* StyleThreeTabBarViewController.m */,
+				EB5173682BAE7E240085631A /* MyTabBar.h */,
+				EB5173692BAE7E240085631A /* MyTabBar.m */,
+				EB51736B2BAE85480085631A /* MyTabbarButton.h */,
+				EB51736C2BAE85480085631A /* MyTabbarButton.m */,
+			);
+			path = StyleThree;
+			sourceTree = "<group>";
+		};
+		EBF155A42BAC782F0010DFB8 = {
+			isa = PBXGroup;
+			children = (
+				EBF155AF2BAC782F0010DFB8 /* GKTabbar */,
+				EBF155AE2BAC782F0010DFB8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EBF155AE2BAC782F0010DFB8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EBF155AD2BAC782F0010DFB8 /* GKTabbar.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EBF155AF2BAC782F0010DFB8 /* GKTabbar */ = {
+			isa = PBXGroup;
+			children = (
+				EB1761FB2BADC11800276776 /* StyleOne */,
+				EB1761FC2BADC12700276776 /* StyleTwo */,
+				EB1761FD2BADC13500276776 /* StyleThree */,
+				EBF155B02BAC782F0010DFB8 /* AppDelegate.h */,
+				EBF155B12BAC782F0010DFB8 /* AppDelegate.m */,
+				EBF155BC2BAC78300010DFB8 /* Assets.xcassets */,
+				EBF155BE2BAC78300010DFB8 /* LaunchScreen.storyboard */,
+				EBF155C12BAC78300010DFB8 /* Info.plist */,
+				EBF155C22BAC78300010DFB8 /* main.m */,
+			);
+			path = GKTabbar;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EBF155AC2BAC782F0010DFB8 /* GKTabbar */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EBF155C62BAC78300010DFB8 /* Build configuration list for PBXNativeTarget "GKTabbar" */;
+			buildPhases = (
+				EBF155A92BAC782F0010DFB8 /* Sources */,
+				EBF155AA2BAC782F0010DFB8 /* Frameworks */,
+				EBF155AB2BAC782F0010DFB8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GKTabbar;
+			productName = GKTabbar;
+			productReference = EBF155AD2BAC782F0010DFB8 /* GKTabbar.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EBF155A52BAC782F0010DFB8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					EBF155AC2BAC782F0010DFB8 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+				};
+			};
+			buildConfigurationList = EBF155A82BAC782F0010DFB8 /* Build configuration list for PBXProject "GKTabbar" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EBF155A42BAC782F0010DFB8;
+			productRefGroup = EBF155AE2BAC782F0010DFB8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EBF155AC2BAC782F0010DFB8 /* GKTabbar */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EBF155AB2BAC782F0010DFB8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EBF155C02BAC78300010DFB8 /* LaunchScreen.storyboard in Resources */,
+				EBF155BD2BAC78300010DFB8 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EBF155A92BAC782F0010DFB8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EB5173612BAE66DE0085631A /* StyleTwoTabBarController.m in Sources */,
+				EB51736D2BAE85480085631A /* MyTabbarButton.m in Sources */,
+				EB1762002BADC3DA00276776 /* StyleOneTabBarController.m in Sources */,
+				EB5173642BAE6C950085631A /* CPTabBar.m in Sources */,
+				EBF155B22BAC782F0010DFB8 /* AppDelegate.m in Sources */,
+				EBF155C32BAC78300010DFB8 /* main.m in Sources */,
+				EB5173672BAE7D4A0085631A /* StyleThreeTabBarViewController.m in Sources */,
+				EB51736A2BAE7E240085631A /* MyTabBar.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		EBF155BE2BAC78300010DFB8 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EBF155BF2BAC78300010DFB8 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EBF155C42BAC78300010DFB8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		EBF155C52BAC78300010DFB8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EBF155C72BAC78300010DFB8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LVMX6XKLR9;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = GKTabbar/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = cedar.GKTabbar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EBF155C82BAC78300010DFB8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = LVMX6XKLR9;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = GKTabbar/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = cedar.GKTabbar;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EBF155A82BAC782F0010DFB8 /* Build configuration list for PBXProject "GKTabbar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EBF155C42BAC78300010DFB8 /* Debug */,
+				EBF155C52BAC78300010DFB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EBF155C62BAC78300010DFB8 /* Build configuration list for PBXNativeTarget "GKTabbar" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EBF155C72BAC78300010DFB8 /* Debug */,
+				EBF155C82BAC78300010DFB8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EBF155A52BAC782F0010DFB8 /* Project object */;
+}

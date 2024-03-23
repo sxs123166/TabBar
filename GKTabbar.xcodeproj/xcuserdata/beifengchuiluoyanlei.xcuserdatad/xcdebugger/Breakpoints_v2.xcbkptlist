@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1B943BAF-EBB8-459D-A75E-8042499629BA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCBA605D-7456-45D8-8ACD-80BCA3C675E9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GKTabbar/StyleOne/StyleOneTabBarController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "-centerButtonAction"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CCBA605D-7456-45D8-8ACD-80BCA3C675E9 - f707e44b2d156c88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[StyleOneTabBarController centerButtonAction]"
+                  moduleName = "GKTabbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beifengchuiluoyanlei/Documents/GKTabbar/GKTabbar/StyleOne/StyleOneTabBarController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "CCBA605D-7456-45D8-8ACD-80BCA3C675E9 - f707e44b2d156c88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[StyleOneTabBarController centerButtonAction]"
+                  moduleName = "GKTabbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beifengchuiluoyanlei/Documents/GKTabbar/GKTabbar/StyleOne/StyleOneTabBarController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "CCBA605D-7456-45D8-8ACD-80BCA3C675E9 - f707e44b2d156ff4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[StyleOneTabBarController centerButtonAction]"
+                  moduleName = "GKTabbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beifengchuiluoyanlei/Documents/GKTabbar/GKTabbar/StyleOne/StyleOneTabBarController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "788DC70A-9841-43E1-A651-85B34E7C8E8E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GKTabbar/StyleTwo/CPTabBar.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "-publishClick"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "788DC70A-9841-43E1-A651-85B34E7C8E8E - ede1faf36ac45264"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CPTabBar publishClick]"
+                  moduleName = "GKTabbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beifengchuiluoyanlei/Documents/GKTabbar/GKTabbar/StyleTwo/CPTabBar.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "788DC70A-9841-43E1-A651-85B34E7C8E8E - ede1faf36ac45245"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CPTabBar publishClick]"
+                  moduleName = "GKTabbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beifengchuiluoyanlei/Documents/GKTabbar/GKTabbar/StyleTwo/CPTabBar.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81CF536D-26B1-493A-9FBF-A35BC3B03FD5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GKTabbar/StyleTwo/CPTabBar.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "-layoutSubviews"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "81CF536D-26B1-493A-9FBF-A35BC3B03FD5 - 3e1cbd1001ddc919"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CPTabBar layoutSubviews]"
+                  moduleName = "GKTabbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beifengchuiluoyanlei/Documents/GKTabbar/GKTabbar/StyleTwo/CPTabBar.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "81CF536D-26B1-493A-9FBF-A35BC3B03FD5 - 3e1cbd1001ddc919"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CPTabBar layoutSubviews]"
+                  moduleName = "GKTabbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beifengchuiluoyanlei/Documents/GKTabbar/GKTabbar/StyleTwo/CPTabBar.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A9FE1A7-27F3-4D33-B40C-A70304B43373"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GKTabbar/StyleTwo/CPTabBar.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "-initWithFrame:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B07AFF04-C519-4417-92AC-1A66BBAAF638"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GKTabbar/StyleTwo/CPTabBar.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "-layoutSubviews"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B07AFF04-C519-4417-92AC-1A66BBAAF638 - 3e1cbd1001ddd6db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CPTabBar layoutSubviews]"
+                  moduleName = "GKTabbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beifengchuiluoyanlei/Documents/GKTabbar/GKTabbar/StyleTwo/CPTabBar.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "B07AFF04-C519-4417-92AC-1A66BBAAF638 - 3e1cbd1001ddd6fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CPTabBar layoutSubviews]"
+                  moduleName = "GKTabbar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/beifengchuiluoyanlei/Documents/GKTabbar/GKTabbar/StyleTwo/CPTabBar.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F5CE76C-16EA-4FFA-A91E-7A672E41CD3C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GKTabbar/StyleThree/StyleThreeTabBarViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "-tabBar:selectedButtonfrom:to:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "50B56768-A48F-4EA2-9693-FF44ED66637F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
