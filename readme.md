@@ -2,6 +2,6 @@
 
 1.第一种方式就是中间初始化一个图片和标题都没有的vc，然后上面用一个UIButton盖住
 
-2.第二种就是利用KVC将原生的tabbar替换掉，转换成自定义的，在layoutSubviews中调整item的frame，并在和中间加上自定义的button
+2.第二种就是利用KVC将原生的tabbar替换掉，转换成自定义的，在layoutSubviews中调整item的frame，并在中间加上自定义的button
 
-3.第三种也是把原生的tabbar替换掉，转换成自定义的，将其中每一个tabbaritem都替换成自定义的button，使用嗲里，将点击事件抛出，使用一个属性button保存上一个被选中的按钮
+3.第三种也是把原生的tabbar替换掉，转换成自定义的，将其中每一个tabbaritem都替换成自定义的button，使用代理，将点击事件抛出，使用一个属性button保存上一个被选中的按钮
